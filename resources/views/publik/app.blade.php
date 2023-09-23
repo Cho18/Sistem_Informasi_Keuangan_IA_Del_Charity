@@ -467,7 +467,7 @@
                                 <a href="/pengeluaran_keuangan" class="dropdown-item {{ Request::is('pengeluaran_keuangan') ? ' active' : '' }}">Pengeluaran</a>
                             </div>
                         </div>
-                        {{-- <a href="/login" class="nav-item nav-link">Login</a> --}}
+                        <a href="/login" class="nav-item nav-link">Login</a>
                     </div>
                 </div>
             </nav>
